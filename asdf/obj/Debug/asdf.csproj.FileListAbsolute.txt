@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\asdf\asdf\bin\Debug\asdf.exe
+c:\users\user\documents\visual studio 2015\Projects\asdf\asdf\bin\Debug\asdf.exe.config
+c:\users\user\documents\visual studio 2015\Projects\asdf\asdf\obj\Debug\asdf.CreateWorld.resources
+c:\users\user\documents\visual studio 2015\Projects\asdf\asdf\obj\Debug\asdf.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\asdf\asdf\obj\Debug\asdf.Game.resources
+c:\users\user\documents\visual studio 2015\Projects\asdf\asdf\obj\Debug\asdf.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\asdf\asdf\obj\Debug\asdf.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\asdf\asdf\obj\Debug\asdf.exe
+c:\users\user\documents\visual studio 2015\Projects\asdf\asdf\obj\Debug\asdf.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\asdf\asdf\bin\Debug\asdf.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\asdf\asdf\obj\Debug\asdf.csprojResolveAssemblyReference.cache
